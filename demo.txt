@@ -1,0 +1,13 @@
+"""
+pip install django-allauth
+
+Django Allauth handles user registration as well as social authentication.
+ It is also good for email address verification, resetting passwords and much more.
+"""
+
+"""
+pip install django-rest-auth
+
+Django REST Auth conveniently provides API endpoints for user registration,
+ login/logout, password change/reset, social auth, and more.
+"""
